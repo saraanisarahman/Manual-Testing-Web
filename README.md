@@ -1,14 +1,23 @@
-# Test-Case-Writing
+# Test Case Writing — Vertex Bazaar (Web)
 
-https://docs.google.com/spreadsheets/d/15sAAcS6CDbt5to7t6YByRa03qm6Ns-eLUOqm0HSyTGc/edit
+🔗 [View Test Cases & Bug Report](https://docs.google.com/spreadsheets/d/15sAAcS6CDbt5to7t6YByRa03qm6Ns-eLUOqm0HSyTGc/edit?gid=1672766731#gid=1672766731)
 
-This is my first project of Manual Testing. I've written test cases on "Vertex Bazaar" which is an online games shop for gamers.
-It provides the Cheapest Mobile Games Top Up, Free Fire Top Up, Free Fire Memberships, Game Cards, Gift Cards, PUBG Mobile Lite BC,
-Google Gift Card etc.
+## About
+My first manual testing project. Vertex Bazaar is an online game top-up store 
+offering Mobile Games Top-Up, Free Fire Top-Up & Memberships, Game Cards, 
+Gift Cards, PUBG Mobile Lite BC, and Google Gift Cards.
 
-I've written test cases for User Authentication of functional testing for both the Vertex bazaar website and its mobile app.
+## Scope
+Functional testing of the **User Authentication** module (Login & Registration) 
+for the Vertex Bazaar website. I got 3 passed and 2 failed cases.
 
-The above link contains 4 sheets. 1st one for the website, 2nd one for the mobile app, 3rd one contains the bug report of failed tests
-of the website and 4th one contains the bug report of the mobile app.
+## Approach
+- Designed test cases covering positive and negative scenarios (valid/invalid 
+  email formats, weak vs. strong passwords, boundary conditions)
+- Executed tests manually and logged Pass/Fail status
+- Documented defects found during execution with screenshots and reproduction steps
 
-I'll soon upload more test cases for both website and mobile, test matrics and test summary.
+## Contents
+This sheet has 2 tabs:
+1. **Vertex Bazaar website** — full test case suite with steps, expected vs. actual results
+2. **Bug Report of website** — defects identified during test execution
